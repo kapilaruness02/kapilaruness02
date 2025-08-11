@@ -39,9 +39,9 @@
 
 ### 🌍 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/your-link/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
-<a href="https://github.com/kapilArunesshSS" target="blank"><img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/s-s-kapil-arunessh/" target="blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/></a>
+<a href="https://github.com/kapilAruness02" target="blank"><img src="https://img.icons8.com/color/48/github--v1.png" alt="GitHub"/></a>
+<a href="mailto:your-kapilarunessh2004@gmail.com"><img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail"/></a>
 </p>
 
 ---
