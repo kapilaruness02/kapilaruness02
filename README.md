@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![GitHub Banner](https://i.ibb.co/6Z7w4jB/github-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Kapil Arunessh</h1>
 <h3 align="center">Data Science Enthusiast | Lifelong Learner | Tech Explorer</h3>
